@@ -2,7 +2,7 @@
 RAG Helper Module - Pre-built Complex Library Code
 This module handles the complex library interactions so students can focus on Python fundamentals.
 
-Students will NOT modify this file. This is provided code.
+Students - DO NOT modify this file. This is provided code.
 """
 
 from typing import List, Dict
