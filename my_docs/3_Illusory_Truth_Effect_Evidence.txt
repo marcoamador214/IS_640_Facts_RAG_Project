@@ -1,0 +1,12 @@
+Title: The Illusory Truth Effect — How Repetition Feels Like Reality
+
+Have you ever believed something simply because you heard it many times? That’s the Illusory Truth Effect at work. Psychologists discovered that repeating statements—even false ones—makes people more likely to believe they’re true. Familiarity creates mental fluency: the brain finds repeated information easier to process and mistakes that ease for accuracy.
+
+In one study, participants read a list of statements like “The Pacific Ocean is the largest ocean.” When shown again later, they rated repeated statements as more likely true, regardless of factual accuracy. This bias explains why myths persist and why misinformation spreads online.
+
+Even people who *know* a claim is false can feel it’s “more true” after repetition. For instance, hearing a rumor about a public figure several times can make it feel believable even when disproved. This helps explain why misinformation thrives in the digital age—our brains are wired to trust familiarity over fact-checking.
+
+---
+References (not included in word count):
+Hasher, L., Goldstein, D., & Toppino, T. (1977). “Frequency and the Conference of Referential Validity.” *Journal of Verbal Learning and Verbal Behavior*, 16, 107–112. https://www.sciencedirect.com/science/article/pii/S0022537177800121
+Fazio, L. K., Brashier, N. M., Payne, B. K., & Marsh, E. J. (2015). “Knowledge Does Not Protect Against Illusory Truth.” *Journal of Experimental Psychology: General*, 144(5), 993–1002. https://www.apa.org/pubs/journals/features/xge-0000098.pdf

@@ -1,0 +1,11 @@
+Title: The “Pre-Mortem” — A Simple Trick to Catch Overconfidence Early
+
+Organizations often suffer from overconfidence in planning—believing things will go right without asking what could go wrong. Psychologist Gary Klein proposed a tool called the “pre-mortem.” Instead of asking “What could fail?”, teams imagine their project *already failed* and work backward to find reasons why.
+
+This mindset shift makes people more willing to voice doubts. It helps uncover hidden risks and assumptions. For example, some NASA teams and business firms now use pre-mortems to surface potential points of failure before committing major resources.
+
+The method also empowers quieter team members who might otherwise defer to confident voices. By normalizing skepticism, it reduces the bias toward overconfident decision-making. It’s a structured way to balance optimism with realism—vital for complex projects or leadership decisions.
+
+---
+References (not included in word count):
+Klein, G. (2007). “Performing a Project Premortem.” *Harvard Business Review.* https://hbr.org/2007/09/performing-a-project-premortem

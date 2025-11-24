@@ -1,0 +1,11 @@
+Title: How to Stay Confident—but Correct — The Power of Calibration
+
+Being confident isn’t the problem—being wrong *and* confident is. That’s why “calibration training” was developed: a method to align confidence with accuracy. Participants make predictions and get feedback comparing confidence levels with actual results. Over time, they learn to express uncertainty more realistically.
+
+Professionals who forecast markets, weather, or policy outcomes benefit from calibration practice. It teaches them to use probability ranges instead of absolute claims (“I’m 80% sure” vs. “I know this will happen”). Studies show that trained forecasters maintain both confidence and accuracy.
+
+This approach turns humility into a measurable skill. When people acknowledge uncertainty, they make better long-term judgments. In a world where confidence often wins attention, true expertise lies in being precise about what we *don’t* know.
+
+---
+References (not included in word count):
+Stone, E. R., et al. “Automated Calibration Training for Forecasters.” *Journal of Behavioral Decision Making.* https://onlinelibrary.wiley.com/doi/pdf/10.1002/bdm.2334

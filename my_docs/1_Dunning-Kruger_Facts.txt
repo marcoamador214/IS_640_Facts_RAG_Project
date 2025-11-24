@@ -1,0 +1,13 @@
+Title: The Dunning–Kruger Effect — Why Incompetence Feels Like Confidence
+
+People often assume confidence means competence, but research shows otherwise. The Dunning–Kruger Effect describes how people with low ability in a skill tend to overestimate their knowledge or performance. This happens because recognizing mistakes requires the same knowledge needed to avoid them. In other words, people who lack expertise often also lack the awareness of their limitations.
+
+For example, in studies where participants took grammar and logic tests, those scoring in the lowest quartile believed they performed well above average. They weren’t lying—they genuinely thought they did better than they did. This cognitive blind spot explains why we sometimes meet people who speak with certainty about things they misunderstand.
+
+The effect appears in many settings. In the workplace, an inexperienced employee might believe they can finish a project without support, underestimating challenges. In politics, leaders have sometimes acted on limited understanding while expressing strong conviction, as seen in policy decisions that later proved flawed. Even in personal life, people may give advice confidently about topics they barely know.
+
+Importantly, high performers can show the opposite bias: underestimating their competence because they assume others find tasks equally easy. The result is an uneven social dynamic—those who know less may sound surer, and those who know more may sound uncertain.
+
+---
+References (not included in word count):
+Kruger, J., & Dunning, D. (1999). “Unskilled and Unaware of It.” *Journal of Personality and Social Psychology*, 77(6), 1121–1134. https://gwern.net/doc/psychology/1999-kruger.pdf

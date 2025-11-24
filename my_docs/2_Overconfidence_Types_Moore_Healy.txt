@@ -1,0 +1,13 @@
+Title: Different Kinds of Overconfidence — How We Misjudge Ourselves
+
+Overconfidence is not one single error—it shows up in several forms. Psychologists Don Moore and Paul Healy identify three main types: overestimation, overplacement, and overprecision.
+
+Overestimation is when people believe their performance is higher than it really is, such as a student expecting an A when they earned a C. Overplacement is thinking we are better than others, like believing we drive better than the average person. Overprecision happens when people are too certain about their beliefs or predictions, leaving too little room for error.
+
+These biases appear everywhere. In business, leaders may overestimate sales forecasts, or investors might be overprecise about stock performance. During the 2008 financial crisis, confident projections ignored uncertainty, leading to massive losses. Overconfidence isn’t limited to individuals—it can affect entire systems.
+
+Understanding these distinctions helps explain why confident errors are so common. People rarely feel like they’re guessing; they often *feel right* because their brains reward decisiveness and certainty. Awareness of overconfidence types can help teams plan more cautiously and value humility as a strength.
+
+---
+References (not included in word count):
+Moore, D. A., & Healy, P. J. (2008). “The Trouble with Overconfidence.” *Psychological Review*, 115(2), 502–517. https://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence.pdf
