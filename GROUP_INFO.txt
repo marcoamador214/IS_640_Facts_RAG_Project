@@ -1,0 +1,24 @@
+Team Name: The Philosophers of RAG
+
+Team Members:
+- Maribel Jaen (011251303)
+- Michael Sobnosky
+- Marco Amador (017583551)
+
+Contributions:
+- Maribel Jaen:
+    1. Sourced text documents for my_docs folder
+    2. Wrote code for TODOS 3 and 4
+    3. Generated test questions for the model
+    4. Contributed to both the report and slides
+
+- Michael Sobnosky:
+    1. Wrote code for TODOS 5, 6, and 7
+    2. Generated test questions for the model
+    3. Contributed to both the report and slides
+
+- Marco Amador:
+    1. Created github repository for colaboration and version control
+    2. Wrote code for TODOS 1 and 2
+    3. Connected to model and recorded demo
+    4. Contributed to both report and slides
